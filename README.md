@@ -8,3 +8,4 @@
 - 📫 How to reach me: snapchat only
 - ⚡ Fun fact: I am one of four triplets. 
 
+Refer to this for later: https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile
